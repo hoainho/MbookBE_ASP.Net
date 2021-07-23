@@ -1,0 +1,12 @@
+D:\Dev-Web\backend\Mbook_ASP\MbookDatabaseAccess\bin\Debug\MbookDatabaseAccess.dll.config
+D:\Dev-Web\backend\Mbook_ASP\MbookDatabaseAccess\bin\Debug\MbookDatabaseAccess.dll
+D:\Dev-Web\backend\Mbook_ASP\MbookDatabaseAccess\bin\Debug\MbookDatabaseAccess.pdb
+D:\Dev-Web\backend\Mbook_ASP\MbookDatabaseAccess\bin\Debug\EntityFramework.dll
+D:\Dev-Web\backend\Mbook_ASP\MbookDatabaseAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Dev-Web\backend\Mbook_ASP\MbookDatabaseAccess\bin\Debug\EntityFramework.xml
+D:\Dev-Web\backend\Mbook_ASP\MbookDatabaseAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Dev-Web\backend\Mbook_ASP\MbookDatabaseAccess\obj\Debug\MbookDatabaseAccess.csproj.CoreCompileInputs.cache
+D:\Dev-Web\backend\Mbook_ASP\MbookDatabaseAccess\obj\Debug\MbookDatabaseAccess.csproj.CopyComplete
+D:\Dev-Web\backend\Mbook_ASP\MbookDatabaseAccess\obj\Debug\MbookDatabaseAccess.dll
+D:\Dev-Web\backend\Mbook_ASP\MbookDatabaseAccess\obj\Debug\MbookDatabaseAccess.pdb
+D:\Dev-Web\backend\Mbook_ASP\MbookDatabaseAccess\obj\Debug\MbookDatabaseAccess.csprojAssemblyReference.cache
